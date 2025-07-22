@@ -4,3 +4,6 @@ git add filename -> add file to stagging area
 git commit -n "commit msg" -> create commit
 git status -> status file in repositor
 git log -> show log commit
+git push -u origin main
+git remote add origin git@github.com:PatrickFranko/news1.git
+git remote -v
