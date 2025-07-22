@@ -12,3 +12,5 @@ git checkout branchName
 git checkout commitHash
 git merge branchName
 code change from master branch
+some code from branch 3-1with changes after merge
+code changes make durring conflict merge
