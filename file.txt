@@ -1,1 +1,6 @@
 1
+git init -> initialisation
+git add filename -> add file to stagging area
+git commit -n "commit msg" -> create commit
+git status -> status file in repositor
+git log -> show log commit
