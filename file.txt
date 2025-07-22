@@ -10,3 +10,4 @@ git remote -v
 git checkout -b newnamebranch
 git checkout branchName
 git checkout commitHash
+git merge branchName
