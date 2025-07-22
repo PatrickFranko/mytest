@@ -11,3 +11,4 @@ git checkout -b newnamebranch
 git checkout branchName
 git checkout commitHash
 git merge branchName
+code change from master branch
